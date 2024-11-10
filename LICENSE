@@ -1,21 +1,12 @@
-MIT License
+# Licence d'Utilisation - BamanaShop
 
-Copyright (c) 2024 Patrrikcode2
+Copyright © 2024 **NovaCreations**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission est accordée, gratuitement, à toute personne obtenant une copie de ce logiciel et des fichiers associés (le "Logiciel"), de lire, modifier et distribuer le Logiciel sans restriction, sous les conditions suivantes :
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. **Attribution** : Toute utilisation du Logiciel doit inclure une mention reconnaissant **NovaCreations** comme le détenteur des droits d'auteur originaux.
+2. **Modifications** : Toute modification du Logiciel doit indiquer les changements effectués par rapport au code d'origine. Il est recommandé de documenter les modifications dans un fichier `CHANGELOG.md` ou autre.
+3. **Distribution** : Toute copie distribuée du Logiciel doit inclure cette licence, même si des modifications ont été apportées.
+4. **Usage non exclusif** : Bien que ce Logiciel soit distribué sous licence libre, NovaCreations conserve tous les droits d'auteur et se réserve le droit d'utiliser et de développer le Logiciel de manière indépendante.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+**Clause de non-responsabilité** : Le Logiciel est fourni "en l'état", sans garantie d'aucune sorte, expresse ou implicite, y compris mais sans s'y limiter les garanties de qualité marchande, d'adéquation à un usage particulier et d'absence de contrefaçon. En aucun cas, les auteurs ou détenteurs de droits d'auteur ne peuvent être tenus responsables de toute réclamation, de tout dommage ou de toute autre responsabilité, que ce soit dans le cadre d'une action contractuelle, délictuelle ou autre, résultant de ou en relation avec le Logiciel ou l'utilisation ou d'autres actions dans le Logiciel.
